@@ -16,12 +16,24 @@
 
 ## What we do
 
-CompleteTech ships **production-grade AI workflows** — and teaches the techniques behind them. We work across Anthropic, OpenAI, and Google so the lessons stay portable and the tools stay provider-agnostic. Everything we publish is designed to survive the jump from notebook to production.
+CompleteTech builds **AI agents, workflows, and tools** — and operates the enterprise systems teams rely on to run the business. We design, deploy, and manage **ITSM, CRM, and CMDB** platforms, and teach the techniques behind production-grade AI so teams can own what we ship.
+
+We work across Anthropic, OpenAI, and Google so the agents stay portable and the lessons stay provider-agnostic. Everything we publish is designed to survive the jump from notebook to production.
+
+### Practice areas
+
+| | |
+|---|---|
+| 🤖 **AI Engineering** | Agents, workflows, tooling, and RAG pipelines across Claude, GPT, and Gemini |
+| 🛠️ **ITSM** | Service management design, automation, and day-two operations |
+| 🤝 **CRM** | Customer data, sales, and support platform integration |
+| 🗂️ **CMDB** | Configuration discovery, data governance, and service mapping |
+| 🎓 **Education** | Notebooks, lessons, and team enablement for frontier-model techniques |
 
 Three things we care about:
 
-- **Portability** — code and prompts that work across every major frontier model.
-- **Repeatability** — structured workflows you can re-run without re-prompting.
+- **Portability** — agents, code, and prompts that work across every major frontier model.
+- **Repeatability** — structured workflows and well-managed systems that run without babysitting.
 - **Teachability** — one artifact that serves both beginners and seasoned engineers.
 
 ---
