@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/CompleteTech-LLC/build-ai-workflows-in-5-steps/raw/main/assets/completetech_logo.jpg" alt="Complete Tech LLC" width="220"/>
+<img src="https://raw.githubusercontent.com/CompleteTech-LLC/.github/main/profile/assets/banner.jpg" alt="Abstract dark illustration of glowing teal and amber circuit traces flowing into a stack of translucent document sheets and gear modules" width="100%"/>
 
 # Complete Tech LLC
 
@@ -10,9 +10,36 @@
 
 </div>
 
-## What is here
+## What we build
 
 Complete Tech LLC publishes teaching notebooks, reusable agent skills, and small tools. Most repositories are early or prototype-stage; each README says what it does and what it does not.
+
+## Featured
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<img src="https://raw.githubusercontent.com/CompleteTech-LLC/.github/main/profile/assets/tile-skills.jpg" alt="Translucent document pages linked by glowing lines to an amber star" width="160"/><br/>
+<b><a href="https://github.com/CompleteTech-LLC/agentic-services-orchestrator-skill">Agent skills</a></b><br/>
+Branded document and workflow skills for Claude and Codex, coordinated by the orchestrator.
+</td>
+<td width="33%" valign="top" align="center">
+<img src="https://raw.githubusercontent.com/CompleteTech-LLC/.github/main/profile/assets/tile-tools.jpg" alt="A glowing gear and wrench above a circuit grid" width="160"/><br/>
+<b><a href="https://github.com/CompleteTech-LLC/ai-usage-ledger-skill">ai-usage-ledger-skill</a></b><br/>
+Compile, de-duplicate, price and attribute local AI coding-agent calls.
+</td>
+<td width="33%" valign="top" align="center">
+<br/><br/>
+<b><a href="https://github.com/CompleteTech-LLC/jev-learning-lab">jev-learning-lab</a></b><br/>
+Self-contained Jupyter course on building auditable agents; 42 lessons and offline fixtures.
+<br/><br/>
+<b><a href="https://github.com/CompleteTech-LLC/build-ai-workflows-in-5-steps">build-ai-workflows-in-5-steps</a></b><br/>
+Provider-agnostic Jupyter lesson on context priming, task decomposition, and workflow crystallization.
+</td>
+</tr>
+</table>
+
+## All repositories
 
 ### Lessons
 
