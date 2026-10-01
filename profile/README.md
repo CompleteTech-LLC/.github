@@ -24,12 +24,12 @@ Complete Tech LLC publishes teaching notebooks, reusable agent skills, and small
 Branded document and workflow skills for Claude and Codex, coordinated by the orchestrator.
 </td>
 <td width="33%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/CompleteTech-LLC/.github/main/profile/assets/tile-tools.jpg" alt="A glowing gear and wrench above a circuit grid" width="160"/><br/>
+<img src="https://raw.githubusercontent.com/CompleteTech-LLC/.github/main/profile/assets/tile-ledger.jpg" alt="A glowing stack of ledger rows feeding a bar chart and a meter dial" width="160"/><br/>
 <b><a href="https://github.com/CompleteTech-LLC/ai-usage-ledger-skill">ai-usage-ledger-skill</a></b><br/>
 Compile, de-duplicate, price and attribute local AI coding-agent calls.
 </td>
 <td width="33%" valign="top" align="center">
-<br/><br/>
+<img src="https://raw.githubusercontent.com/CompleteTech-LLC/.github/main/profile/assets/tile-learn.jpg" alt="An open notebook with a glowing path of lesson nodes rising toward an amber star" width="160"/><br/>
 <b><a href="https://github.com/CompleteTech-LLC/jev-learning-lab">jev-learning-lab</a></b><br/>
 Self-contained Jupyter course on building auditable agents; 42 lessons and offline fixtures.
 <br/><br/>
