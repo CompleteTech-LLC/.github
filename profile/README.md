@@ -1,75 +1,51 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/CompleteTech-LLC/build-ai-workflows-in-5-steps/main/assets/completetech_logo.jpg" alt="CompleteTech LLC" width="240"/>
+<img src="https://github.com/CompleteTech-LLC/build-ai-workflows-in-5-steps/raw/main/assets/completetech_logo.jpg" alt="Complete Tech LLC" width="220"/>
 
-# CompleteTech LLC
+# Complete Tech LLC
 
-**Practical AI engineering — lessons, tools, and workflows for people who build.**
+**AI engineering lessons, agent skills, and tools.**
 
-[![Website](https://img.shields.io/badge/web-complete.tech-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://complete.tech)
-[![Contact](https://img.shields.io/badge/contact-Timothy.Gregg%40complete.tech-0A0A0A?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:Timothy.Gregg@complete.tech)
-[![License](https://img.shields.io/badge/code-MIT-0A0A0A?style=for-the-badge)](#)
+[complete.tech](https://complete.tech) · [@CompleteTechLLC on X](https://x.com/CompleteTechLLC) · [Timothy.Gregg@complete.tech](mailto:Timothy.Gregg@complete.tech)
 
 </div>
 
----
+## What is here
 
-## What we do
+Complete Tech LLC publishes teaching notebooks, reusable agent skills, and small tools. Most repositories are early or prototype-stage; each README says what it does and what it does not.
 
-CompleteTech builds **AI agents, workflows, and tools** — and operates the enterprise systems teams rely on to run the business. We design, deploy, and manage **ITSM, CRM, and CMDB** platforms, and teach the techniques behind production-grade AI so teams can own what we ship.
+### Lessons
 
-We work across Anthropic, OpenAI, and Google so the agents stay portable and the lessons stay provider-agnostic. Everything we publish is designed to survive the jump from notebook to production.
+- [build-ai-workflows-in-5-steps](https://github.com/CompleteTech-LLC/build-ai-workflows-in-5-steps) - a provider-agnostic Jupyter lesson on context priming, task decomposition, and turning a workflow into code.
+- [jev-learning-lab](https://github.com/CompleteTech-LLC/jev-learning-lab) - a self-contained Jupyter course on building auditable agents.
 
-### Practice areas
+### Agent skills
 
-| | |
-|---|---|
-| 🤖 **AI Engineering** | Agents, workflows, tooling, and RAG pipelines across Claude, GPT, and Gemini |
-| 🛠️ **ITSM** | Service management design, automation, and day-two operations |
-| 🤝 **CRM** | Customer data, sales, and support platform integration |
-| 🗂️ **CMDB** | Configuration discovery, data governance, and service mapping |
-| 🎓 **Education** | Notebooks, lessons, and team enablement for frontier-model techniques |
+Branded document and workflow skills for Claude and Codex, from discovery to delivery. Start with the [orchestrator](https://github.com/CompleteTech-LLC/agentic-services-orchestrator-skill), which coordinates the library.
 
-Three things we care about:
+- Sales and scoping: [discovery](https://github.com/CompleteTech-LLC/agentic-discovery-skill), [proposal](https://github.com/CompleteTech-LLC/agentic-proposal-skill), [contract](https://github.com/CompleteTech-LLC/agentic-contract-skill), [email](https://github.com/CompleteTech-LLC/agentic-email-skill)
+- Delivery and billing: [delivery](https://github.com/CompleteTech-LLC/agentic-delivery-skill), [invoice](https://github.com/CompleteTech-LLC/agentic-invoice-skill), [security review](https://github.com/CompleteTech-LLC/agentic-security-review-skill)
+- Follow-through: [customer success](https://github.com/CompleteTech-LLC/agentic-customer-success-skill), [case study](https://github.com/CompleteTech-LLC/agentic-case-study-skill), [envelope](https://github.com/CompleteTech-LLC/agentic-envelope-skill)
+- [ai-usage-ledger-skill](https://github.com/CompleteTech-LLC/ai-usage-ledger-skill) - compile local AI coding-agent usage into a de-duplicated, priced ledger.
 
-- **Portability** — agents, code, and prompts that work across every major frontier model.
-- **Repeatability** — structured workflows and well-managed systems that run without babysitting.
-- **Teachability** — one artifact that serves both beginners and seasoned engineers.
+### Tools and prototypes
 
----
+- [LoL_OBS_Overlay](https://github.com/CompleteTech-LLC/LoL_OBS_Overlay) - League of Legends account monitor that generates OBS overlays.
+- [claw-links](https://github.com/CompleteTech-LLC/claw-links) - launcher that opens Discord links in a managed Firefox profile (early scaffold).
+- [cockpit-intel-gpu-overview](https://github.com/CompleteTech-LLC/cockpit-intel-gpu-overview) - Cockpit extension for Intel Arc Pro B60 telemetry.
+- [sb16-patent-lifecycle-client](https://github.com/CompleteTech-LLC/sb16-patent-lifecycle-client) - browser-only parser for USPTO PTO/SB/16 cover sheets.
+- [stt-app](https://github.com/CompleteTech-LLC/stt-app) - Next.js speech-to-text app using server-side OpenAI calls.
+- [anime-js](https://github.com/CompleteTech-LLC/anime-js) - Anime.js homepage-style scroll animation built with React and Three.js.
+- [way-back-home](https://github.com/CompleteTech-LLC/way-back-home) - a Google Cloud AI agent workshop (Apache-2.0).
 
-## Featured projects
+### Forks we keep
 
-### [Build AI Workflows in 5 Steps](https://github.com/CompleteTech-LLC/build-ai-workflows-in-5-steps)
+[openclaw](https://github.com/CompleteTech-LLC/openclaw), [unstract](https://github.com/CompleteTech-LLC/unstract), [herdr](https://github.com/CompleteTech-LLC/herdr), and [the-Kitchen](https://github.com/CompleteTech-LLC/the-Kitchen) are forks of other projects; credit and licenses belong to their upstream authors.
 
-A single Jupyter notebook that takes a messy PDF and a goal image, then watches an AI design its own workflow to get from one to the other — finally handing you reusable code that runs the workflow without the expensive AI calls. Covers context priming, task decomposition, visual workflow design, and code crystallization across Claude, GPT, and Gemini.
+## Limits
 
-![Python](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white) ![Providers](https://img.shields.io/badge/providers-Claude%20%7C%20GPT%20%7C%20Gemini-8A2BE2) ![License](https://img.shields.io/badge/license-MIT-green)
+Repositories are published as-is. We do not publish usage or customer metrics here, and a repo being listed does not mean it is production-ready. Licenses vary by repository; check each one.
 
-### [OpenClaw](https://github.com/CompleteTech-LLC/openclaw)
+## Contact
 
-Your own personal AI assistant. Any OS. Any platform. The lobster way. 🦞 A cross-platform TypeScript assistant built for people who want full ownership of their tooling.
-
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white) ![Cross--platform](https://img.shields.io/badge/platform-any-lightgrey)
-
-### More in the works
-
-Additional public projects live at [`/CompleteTech-LLC`](https://github.com/CompleteTech-LLC) — including experiments in automation, overlays, and tooling. Private repositories cover internal playbooks and client work.
-
----
-
-## Get in touch
-
-Collaborating on AI workflows, curriculum, or custom engineering? Reach out:
-
-- **Web** — [complete.tech](https://complete.tech)
-- **Email** — [Timothy.Gregg@complete.tech](mailto:Timothy.Gregg@complete.tech)
-- **Issues & PRs** — welcome on any public repo
-
----
-
-<div align="center">
-
-<sub>© 2026 CompleteTech LLC</sub>
-
-</div>
+Questions or collaboration: see [SUPPORT](https://github.com/CompleteTech-LLC/.github/blob/main/SUPPORT.md). Security reports: see [SECURITY](https://github.com/CompleteTech-LLC/.github/blob/main/SECURITY.md).
