@@ -72,7 +72,6 @@ Branded document and workflow skills for Claude and Codex. Start with the orches
 - [stt-app](https://github.com/CompleteTech-LLC/stt-app) - Signal STT: secure Next.js speech-to-text app with live mic and file upload, using server-side OpenAI calls.
 - [LoL_OBS_Overlay](https://github.com/CompleteTech-LLC/LoL_OBS_Overlay) - Real-time League of Legends account monitor that generates auto-updating OBS overlays for streamers.
 - [anime-js](https://github.com/CompleteTech-LLC/anime-js) - Anime.js homepage-style scroll animation clone built with React, Vite, Anime.js, and Three.js.
-- [way-back-home](https://github.com/CompleteTech-LLC/way-back-home) - Hands-on Google Cloud AI agent workshop with a stranded-explorer storyline (Apache-2.0).
 
 ### Organization
 
@@ -84,6 +83,7 @@ Forks of other projects; credit and licenses belong to their upstream authors.
 
 - [openclaw](https://github.com/CompleteTech-LLC/openclaw), [unstract](https://github.com/CompleteTech-LLC/unstract), [herdr](https://github.com/CompleteTech-LLC/herdr), [the-Kitchen](https://github.com/CompleteTech-LLC/the-Kitchen)
 - Archived: [PatentMine](https://github.com/CompleteTech-LLC/PatentMine)
+- Copy of a third-party workshop: [way-back-home](https://github.com/CompleteTech-LLC/way-back-home) (Google Cloud AI agent workshop, Apache-2.0).
 
 ## Limits
 
