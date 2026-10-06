@@ -1,0 +1,32 @@
+name: Bug report
+description: Something does not work the way the README says it should.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Many repositories here are early or prototype-stage, so please say what you ran and what you saw. For security issues, do not file here; see the security policy.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What you ran, what you expected, and what happened instead. Include exact error text if there is any.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: The smallest set of steps that shows the problem.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      description: A release tag or commit hash, if you know it.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Operating system, runtime versions and anything else relevant.

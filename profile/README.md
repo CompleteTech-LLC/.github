@@ -41,33 +41,49 @@ Provider-agnostic Jupyter lesson on context priming, task decomposition, and wor
 
 ## All repositories
 
-### Lessons
-
-- [build-ai-workflows-in-5-steps](https://github.com/CompleteTech-LLC/build-ai-workflows-in-5-steps) - a provider-agnostic Jupyter lesson on context priming, task decomposition, and turning a workflow into code.
-- [jev-learning-lab](https://github.com/CompleteTech-LLC/jev-learning-lab) - a self-contained Jupyter course on building auditable agents.
-
 ### Agent skills
 
-Branded document and workflow skills for Claude and Codex, from discovery to delivery. Start with the [orchestrator](https://github.com/CompleteTech-LLC/agentic-services-orchestrator-skill), which coordinates the library.
+Branded document and workflow skills for Claude and Codex. Start with the orchestrator, which coordinates the library.
 
-- Sales and scoping: [discovery](https://github.com/CompleteTech-LLC/agentic-discovery-skill), [proposal](https://github.com/CompleteTech-LLC/agentic-proposal-skill), [contract](https://github.com/CompleteTech-LLC/agentic-contract-skill), [email](https://github.com/CompleteTech-LLC/agentic-email-skill)
-- Delivery and billing: [delivery](https://github.com/CompleteTech-LLC/agentic-delivery-skill), [invoice](https://github.com/CompleteTech-LLC/agentic-invoice-skill), [security review](https://github.com/CompleteTech-LLC/agentic-security-review-skill)
-- Follow-through: [customer success](https://github.com/CompleteTech-LLC/agentic-customer-success-skill), [case study](https://github.com/CompleteTech-LLC/agentic-case-study-skill), [envelope](https://github.com/CompleteTech-LLC/agentic-envelope-skill)
-- [ai-usage-ledger-skill](https://github.com/CompleteTech-LLC/ai-usage-ledger-skill) - compile local AI coding-agent usage into a de-duplicated, priced ledger.
+- [agentic-services-orchestrator-skill](https://github.com/CompleteTech-LLC/agentic-services-orchestrator-skill) - Coordinate the CompleteTech LLC agentic services skill library: lifecycle routing, sequencing, handoffs, and approval gates.
+- [agentic-discovery-skill](https://github.com/CompleteTech-LLC/agentic-discovery-skill) - Create branded CompleteTech LLC discovery and scoping PDFs (intake, workflow maps, readiness, requirements briefs) for agentic development.
+- [agentic-email-skill](https://github.com/CompleteTech-LLC/agentic-email-skill) - Draft CompleteTech LLC sales and lifecycle email copy and sequences, rendered as branded PDFs.
+- [agentic-proposal-skill](https://github.com/CompleteTech-LLC/agentic-proposal-skill) - Create branded CompleteTech LLC agentic development proposals, statements of work, and pilot plans as PDFs.
+- [agentic-contract-skill](https://github.com/CompleteTech-LLC/agentic-contract-skill) - Generate branded CompleteTech LLC services agreement PDFs with cover, letterhead, watermark and addressed envelope from approved terms.
+- [agentic-invoice-skill](https://github.com/CompleteTech-LLC/agentic-invoice-skill) - Create branded CompleteTech LLC invoice PDFs for agentic development services, from deposit through final payment.
+- [agentic-delivery-skill](https://github.com/CompleteTech-LLC/agentic-delivery-skill) - Create branded CompleteTech LLC delivery execution PDFs (kickoff, status, evaluation, launch readiness, handoff) for agentic pilots.
+- [agentic-security-review-skill](https://github.com/CompleteTech-LLC/agentic-security-review-skill) - Create branded CompleteTech LLC security, safety, and launch-readiness review PDFs for agentic workflows.
+- [agentic-customer-success-skill](https://github.com/CompleteTech-LLC/agentic-customer-success-skill) - Create branded CompleteTech LLC customer success PDFs (account profiles, health scorecards, QBRs, renewal and expansion briefs).
+- [agentic-case-study-skill](https://github.com/CompleteTech-LLC/agentic-case-study-skill) - Create branded CompleteTech LLC case studies, testimonials, and proof assets from client-approved outcomes.
+- [agentic-envelope-skill](https://github.com/CompleteTech-LLC/agentic-envelope-skill) - Generate branded CompleteTech LLC printable #10 addressed envelope PDFs and delivery packages.
+- [ai-usage-ledger-skill](https://github.com/CompleteTech-LLC/ai-usage-ledger-skill) - Compile, de-duplicate, price and attribute local AI coding-agent usage into a ledger with a branded dashboard (CompleteTech LLC skill).
+- [org-time-tracking-skill](https://github.com/CompleteTech-LLC/org-time-tracking-skill) - Account for time spent with one organization from Outlook, Teams and calendar evidence, as a workbook and branded report (CompleteTech LLC skill).
+
+### Lessons
+
+- [build-ai-workflows-in-5-steps](https://github.com/CompleteTech-LLC/build-ai-workflows-in-5-steps) - Provider-agnostic Jupyter lesson on context priming, task decomposition and workflow crystallization, from goal image to code.
+- [jev-learning-lab](https://github.com/CompleteTech-LLC/jev-learning-lab) - Self-contained Jupyter course on building auditable agents with JEV; 42 lessons and offline fixtures.
 
 ### Tools and prototypes
 
-- [LoL_OBS_Overlay](https://github.com/CompleteTech-LLC/LoL_OBS_Overlay) - League of Legends account monitor that generates OBS overlays.
-- [claw-links](https://github.com/CompleteTech-LLC/claw-links) - launcher that opens Discord links in a managed Firefox profile (early scaffold).
-- [cockpit-intel-gpu-overview](https://github.com/CompleteTech-LLC/cockpit-intel-gpu-overview) - Cockpit extension for Intel Arc Pro B60 telemetry.
-- [sb16-patent-lifecycle-client](https://github.com/CompleteTech-LLC/sb16-patent-lifecycle-client) - browser-only parser for USPTO PTO/SB/16 cover sheets.
-- [stt-app](https://github.com/CompleteTech-LLC/stt-app) - Next.js speech-to-text app using server-side OpenAI calls.
-- [anime-js](https://github.com/CompleteTech-LLC/anime-js) - Anime.js homepage-style scroll animation built with React and Three.js.
-- [way-back-home](https://github.com/CompleteTech-LLC/way-back-home) - a Google Cloud AI agent workshop (Apache-2.0).
+- [claw-links](https://github.com/CompleteTech-LLC/claw-links) - Cross-platform launcher that opens Discord links in a managed, hardened Firefox profile (early scaffold).
+- [cockpit-intel-gpu-overview](https://github.com/CompleteTech-LLC/cockpit-intel-gpu-overview) - Cockpit extension that shows Intel Arc Pro B60 GPU telemetry collected from xpu-smi.
+- [sb16-patent-lifecycle-client](https://github.com/CompleteTech-LLC/sb16-patent-lifecycle-client) - Browser-only prototype that parses USPTO PTO/SB/16 cover sheet PDFs into a patent lifecycle tracker.
+- [stt-app](https://github.com/CompleteTech-LLC/stt-app) - Signal STT: secure Next.js speech-to-text app with live mic and file upload, using server-side OpenAI calls.
+- [LoL_OBS_Overlay](https://github.com/CompleteTech-LLC/LoL_OBS_Overlay) - Real-time League of Legends account monitor that generates auto-updating OBS overlays for streamers.
+- [anime-js](https://github.com/CompleteTech-LLC/anime-js) - Anime.js homepage-style scroll animation clone built with React, Vite, Anime.js, and Three.js.
+- [way-back-home](https://github.com/CompleteTech-LLC/way-back-home) - Hands-on Google Cloud AI agent workshop with a stranded-explorer storyline (Apache-2.0).
 
-### Forks we keep
+### Organization
 
-[openclaw](https://github.com/CompleteTech-LLC/openclaw), [unstract](https://github.com/CompleteTech-LLC/unstract), [herdr](https://github.com/CompleteTech-LLC/herdr), and [the-Kitchen](https://github.com/CompleteTech-LLC/the-Kitchen) are forks of other projects; credit and licenses belong to their upstream authors.
+- [.github](https://github.com/CompleteTech-LLC/.github) - Organization profile and default community health files for CompleteTech LLC.
+
+### Forks and archive
+
+Forks of other projects; credit and licenses belong to their upstream authors.
+
+- [openclaw](https://github.com/CompleteTech-LLC/openclaw), [unstract](https://github.com/CompleteTech-LLC/unstract), [herdr](https://github.com/CompleteTech-LLC/herdr), [the-Kitchen](https://github.com/CompleteTech-LLC/the-Kitchen)
+- Archived: [PatentMine](https://github.com/CompleteTech-LLC/PatentMine)
 
 ## Limits
 
