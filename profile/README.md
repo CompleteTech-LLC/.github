@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/CompleteTech-LLC/.github/main/profile/assets/banner.jpg" alt="Abstract dark illustration of glowing teal and amber circuit traces flowing into a stack of translucent document sheets and gear modules" width="100%"/>
 
-# Complete Tech LLC
+# CompleteTech LLC
 
 **AI engineering lessons, agent skills, and tools.**
 
